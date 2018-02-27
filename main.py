@@ -7,7 +7,7 @@ color = [ 0, 255, 0 ]
 matrix = new_matrix()
 
 pizza = new_matrix()
-print_matrix(pizza)
+#print_matrix(pizza)
 
 """
 add_edge(pizza, 130, 130, 0, 90, 150, 0)
